@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+     background-color: black;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+   background-color:lightcoral;
+}
+
+#origami2{
+  background-color:lightcoral; 
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#heading{
+    font-family: 'Dancing Script', cursive;
+    color: #23da69;
+}
+h3{
+    font-family: 'Pacifico', cursive;
+    color: #d91619;
+}
+h2{
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #4c16b0;
+}
+.crane{
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #f0c537;
+}
